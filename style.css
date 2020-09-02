@@ -1,3 +1,19 @@
 body{
-    background: blanchedalmond;
+    background: rgba(8, 240, 228, 0.911);
+}
+main{
+    /* background-color: blue; */
+    background-image: linear-gradient(to bottom right, white, blue);
+    border: 5px ridge white;
+    border-radius: 3px;
+    width: 80%;
+    margin: 0 auto;
+    padding: 5px;
+}
+img{
+    float: left;
+    margin-right: 20px;
+}
+h1{
+    text-align: center;
 }
